@@ -1,2 +1,2 @@
-# rp2040_blinky
+# rp2040_bootloader
 Raspberry pi pico
